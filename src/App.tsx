@@ -17,7 +17,7 @@ export default function Page() {
       "It's wrong!!",
       "Pretty please",
       "Iu bé nhất, chọn lại đi",
-      "Chọn lại mau",
+      "Chọn lại mauuu",
       "Hư quá",
       "Nhéo má em giờ",
       "Nhéo sưng luôn",
